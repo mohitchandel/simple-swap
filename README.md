@@ -5,8 +5,8 @@ SimpleSwap is a Solidity smart contract that enables token swaps using the Unisw
 ## Prerequisites
 
 - [Solidity](https://soliditylang.org/) v0.8.18 or compatible version
-- [OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/) v4.3.2 or compatible version
-- [Uniswap V3 Periphery](https://github.com/Uniswap/uniswap-v3-periphery) v1.0.0 or compatible version
+- [OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/) ^4.9.2 or compatible version
+- [Uniswap V3 Periphery](https://github.com/Uniswap/uniswap-v3-periphery) v1.4.3 or compatible version
 
 ## Installation
 
