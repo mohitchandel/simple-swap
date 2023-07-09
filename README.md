@@ -1,11 +1,11 @@
 # SimpleSwap
 
-SimpleSwap is a Solidity smart contract that enables token swaps using the Uniswap V3 protocol. It allows users to swap a fixed amount of a spend token for a maximum possible amount of a receive token or swap a fixed amount of a receive token for a minimum possible amount of a spend token.
+SimpleSwap is a Solidity smart contract that enables token swaps using the Uniswap V3 protocol. It allows users to swap a fixed amount of a spend token for a maximum possible amount of a received token or swap a fixed amount of a received token for a minimum possible amount of a spend token.
 
 ## Prerequisites
 
 - [Solidity](https://soliditylang.org/) v0.8.18 or compatible version
-- [OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/) ^4.9.2 or compatible version
+- [OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/) v4.9.2 or compatible version
 - [Uniswap V3 Periphery](https://github.com/Uniswap/uniswap-v3-periphery) v1.4.3 or compatible version
 
 ## Installation
